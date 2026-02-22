@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://github.com/NABIHAyman">
+<a href="assets/Portfolio_Ayman_NABIH.webp" target='_blank'>
     <img src="assets/Portfolio_Ayman_NABIH.webp" alt="Infographie Blueprint - Ayman Nabih - Architecte Logiciel & Développeur Full Stack" width="100%" />
 </a>
 
