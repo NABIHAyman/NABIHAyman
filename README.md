@@ -1,6 +1,6 @@
 <div align="center">
-<a href="assets/Portfolio_Ayman_NABIH-24-02.webp" target='_blank'>
-    <img src="assets/Portfolio_Ayman_NABIH-24-02.webp" alt="Infographie Blueprint - Ayman Nabih - Architecte Logiciel & Développeur Full Stack" width="100%" />
+<a href="assets/Portfolio_Ayman_NABIH.webp" target='_blank'>
+    <img src="assets/Portfolio_Ayman_NABIH.webp" alt="Infographie Blueprint - Ayman Nabih - Architecte Logiciel & Développeur Full Stack" width="100%" />
 </a>
 
 <br><br>
