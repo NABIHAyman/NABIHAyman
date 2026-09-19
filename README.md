@@ -12,11 +12,11 @@
 
 ## 🚀 Mon Profil en Bref
 
-Je suis un développeur passionné par l'architecture logicielle, évoluant à la croisée d'un Backend robuste, de bases de données optimisées et d'interfaces réactives.
+Élève ingénieur en option **Intelligence Artificielle**, je suis un développeur passionné par l'architecture logicielle, évoluant à la croisée d'un Backend robuste, de bases de données optimisées et d'interfaces réactives, et j'y intègre l'IA (RAG, agents LLM, OCR/VLM) au service de processus métier réels.
 
-- 🔭 **Actuellement :** Je conçois *from scratch* une architecture SaaS multi-tenant complexe.
+- 🔭 **Actuellement :** Stagiaire Ingénieur IA & Backend : agents IA spécialisés, benchmark de modèles OCR/VLM sur données de production et service d'extraction documentaire (FastAPI) déployé sur Linux.
 - 💡 **Ma spécialité :** Créer des architectures résilientes (Micro-services, Pattern Strategy) et optimiser les performances sous forte charge (Caching distribué, requêtes SQL complexes).
-- 🌱 **En cours d'exploration :** Systèmes RAG (Retrieval-Augmented Generation), Modèles prédictifs (Python) et IA Agentique appliqués au Génie Logiciel.
+- 🌱 **IA appliquée :** Systèmes RAG, agents multi-LLM (Pydantic-AI), modèles OCR/VLM et connecteurs MCP, avec un principe : l'IA lit, le code décide.
 
 ---
 
@@ -37,12 +37,17 @@ Je suis un développeur passionné par l'architecture logicielle, évoluant à l
 <td align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Pydantic--AI-E92063?style=flat-square&logo=pydantic&logoColor=white" alt="Pydantic-AI" />
 <img src="https://img.shields.io/badge/RAG-6E40C9?style=flat-square" alt="RAG" />
 <img src="https://img.shields.io/badge/ChromaDB-FF6446?style=flat-square" alt="ChromaDB" />
 <img src="https://img.shields.io/badge/SentenceTransformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="SentenceTransformers" />
 <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
 <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
+<img src="https://img.shields.io/badge/MCP_(FastMCP)-5A45FF?style=flat-square" alt="MCP (FastMCP)" />
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+<img src="https://img.shields.io/badge/XGBoost-337AB7?style=flat-square" alt="XGBoost" />
+<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
 <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras" />
 </td>
@@ -89,19 +94,26 @@ Je suis un développeur passionné par l'architecture logicielle, évoluant à l
 <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D" alt="Vue.js" /> <br/>
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" /> <br/>
 <img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=white" alt="Vuetify" /> <br/>
+<img src="https://img.shields.io/badge/Pinia-FFD859?style=flat-square&logo=vuedotjs&logoColor=black" alt="Pinia" />
 </td>
 <td align="center" valign="top" width="16%">
 <b>🗄️ Databases</b>
 <hr/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <br/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" /> <br/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" /> <br/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" /> <br/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
 </td>
 <td align="center" valign="top" width="16%">
 <b>☁️ Infra</b>
 <hr/>
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white" alt="Docker" /> <br/>
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions" /> <br/>
-<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white" alt="SonarQube" />
+<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white" alt="SonarQube" /> <br/>
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ" /> <br/>
+<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Apache Kafka" /> <br/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
 </td>
 </tr>
 </table>
@@ -111,10 +123,19 @@ Je suis un développeur passionné par l'architecture logicielle, évoluant à l
 
 ## 🏆 Projets Phares
 
-### 🚢 [GitDock] *(Projet de Fin d'Année — projet académique, jamais mis en production)*
+### 🚢 [GitDock](https://github.com/NABIHAyman/gitdock-platform) *(Projet de Fin d'Année — équipe de 4, responsable backend & IA — projet académique, jamais mis en production)*
 > **Plateforme SaaS d'analyse Git multi-tenant** conçue pour centraliser la productivité des équipes de développement.
 
 * 🏗️ **Architecture :** Conception d'un système isolant les données par entreprise (Multi-tenant) avec sécurisation stricte via JWT et OAuth2.
+* 🧩 **Micro-services :** 8+ services polyglottes (Spring Boot, Symfony, .NET, FastAPI), API Gateway, Eureka, RabbitMQ, Kafka, pattern Saga, Resilience4j.
+* 🤖 **gitdock-yam :** Assistant multi-agents RAG (routeur sémantique puis agents spécialisés), profils développeurs vectorisés dans ChromaDB, cascade LLM Ollama local puis Gemini.
+* 🛡️ **gitdock-sentinel :** Audit DevSecOps des diffs de commits en temps réel (Kafka, analyse LLM, diffusion WebSocket).
+
+### 🧠 Assistant Cognitif V2 *(Projet personnel)*
+> **Captures d'écran → base de connaissances Markdown** via un VLM local, avec validation humaine.
+
+* ⚙️ **Stack :** Vue 3, FastAPI, Pydantic-AI ; traitement par lots asynchrone et notifications WebSocket.
+* 🔌 **Intégration :** Connecteur MCP (FastMCP) vers Notion ; Docker Compose 3 services derrière un reverse proxy Nginx.
 
 ### 🔧 Dev-Balance *(Stage - SII Services Maroc)*
 > **Solution de monitoring Git :** Maintenance évolutive et refonte technique majeure pour améliorer l'expérience utilisateur et les performances.
@@ -122,8 +143,14 @@ Je suis un développeur passionné par l'architecture logicielle, évoluant à l
 * 🔄 **Refactoring Architectural :** Migration complexe d'une relation "Many-to-One" vers "Many-to-Many" pour permettre une collaboration multi-acteurs sur un même dépôt.
 * ⚡ **Performance :** Déploiement d'une stratégie de caching distribué avec MongoDB pour soulager l'API des traitements de JSONs volumineux.
 * 📡 **Temps Réel :** Mise en place d'une architecture événementielle avec Webhooks et notifications instantanées via WebSockets.
+* 🔗 **Intégration Bitbucket :** Import d'un projet à partir de son lien, récupération des commits et des branches, droits des collaborateurs préservés.
 
 ---
 <div align="center">
+<a href="assets/Portfolio_Ayman_NABIH_2026.webp" target="_blank">
+    <img src="assets/Portfolio_Ayman_NABIH_2026.webp" alt="Infographie - Ayman NABIH - Ingénieur Logiciel &amp; IA Appliquée" width="100%" />
+</a>
+
+<br/><br/>
 <i>Prêt à relever de nouveaux défis architecturaux. N'hésitez pas à jeter un œil à mes dépôts ci-dessous ! 👇</i>
 </div>
