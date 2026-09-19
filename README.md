@@ -123,7 +123,7 @@
 
 ## 🏆 Projets Phares
 
-### 🚢 GitDock *(Projet de Fin d'Année — équipe de 4, responsable backend & IA — projet académique, jamais mis en production)*
+### 🚢 GitDock *(Projet de Fin d'Année — équipe de 4, responsable backend & IA — projet académique)*
 > **Plateforme SaaS d'analyse Git multi-tenant** conçue pour centraliser la productivité des équipes de développement.
 
 * 🏗️ **Architecture :** Conception d'un système isolant les données par entreprise (Multi-tenant) avec sécurisation stricte via JWT et OAuth2.
@@ -147,8 +147,8 @@
 
 ---
 <div align="center">
-<a href="assets/Portfolio_Ayman_NABIH_2026.webp" target="_blank">
-    <img src="assets/Portfolio_Ayman_NABIH_2026.webp" alt="Infographie - Ayman NABIH - Ingénieur Logiciel &amp; IA Appliquée" width="100%" />
+<a href="assets/Portfolio_Ayman_NABIH_v3.webp" target="_blank">
+    <img src="assets/Portfolio_Ayman_NABIH_v3.webp" alt="Infographie - Ayman NABIH - Ingénieur Logiciel &amp; IA Appliquée" width="100%" />
 </a>
 </div>
 
