@@ -132,10 +132,10 @@
 * 🛡️ **gitdock-sentinel :** Audit DevSecOps des diffs de commits en temps réel (Kafka, analyse LLM, diffusion WebSocket).
 
 ### 🧠 Assistant Cognitif V2 *(Projet personnel)*
-> **Captures d'écran → base de connaissances Markdown** via un VLM local, avec validation humaine.
+> **Captures d'écran → base de connaissances Markdown et Notion** via un VLM local, avec validation humaine.
 
 * ⚙️ **Stack :** Vue 3, FastAPI, Pydantic-AI ; traitement par lots asynchrone et notifications WebSocket.
-* 🔌 **Intégration :** Connecteur MCP (FastMCP) vers Notion ; Docker Compose 3 services derrière un reverse proxy Nginx.
+* 🔌 **Notion via MCP :** Chaque fiche validée est publiée dans une base Notion (titre, tags, statut, contenu Markdown) par un connecteur MCP (FastMCP) ; Docker Compose 3 services derrière un reverse proxy Nginx.
 
 ### 🔧 Dev-Balance *(Stage - SII Services Maroc)*
 > **Solution de monitoring Git :** Maintenance évolutive et refonte technique majeure pour améliorer l'expérience utilisateur et les performances.
@@ -150,7 +150,9 @@
 <a href="assets/Portfolio_Ayman_NABIH_2026.webp" target="_blank">
     <img src="assets/Portfolio_Ayman_NABIH_2026.webp" alt="Infographie - Ayman NABIH - Ingénieur Logiciel &amp; IA Appliquée" width="100%" />
 </a>
+</div>
 
-<br/><br/>
+---
+<div align="center">
 <i>Prêt à relever de nouveaux défis architecturaux. N'hésitez pas à jeter un œil à mes dépôts ci-dessous ! 👇</i>
 </div>
