@@ -123,7 +123,7 @@
 
 ## 🏆 Projets Phares
 
-### 🚢 [GitDock](https://github.com/NABIHAyman/gitdock-platform) *(Projet de Fin d'Année — équipe de 4, responsable backend & IA — projet académique, jamais mis en production)*
+### 🚢 GitDock *(Projet de Fin d'Année — équipe de 4, responsable backend & IA — projet académique, jamais mis en production)*
 > **Plateforme SaaS d'analyse Git multi-tenant** conçue pour centraliser la productivité des équipes de développement.
 
 * 🏗️ **Architecture :** Conception d'un système isolant les données par entreprise (Multi-tenant) avec sécurisation stricte via JWT et OAuth2.
