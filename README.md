@@ -1,16 +1,11 @@
 <div align="center">
-<a href="assets/Portfolio_Ayman_NABIH.webp" target='_blank'>
-    <img src="assets/Portfolio_Ayman_NABIH.webp" alt="Infographie Blueprint - Ayman Nabih - Architecte Logiciel & Développeur Full Stack" width="100%" />
-</a>
-
-<br><br>
 <h1>Salut, je suis Ayman NABIH 👋</h1>
 
-<h3>Élève Ingénieur en Génie Informatique | Architecte Logiciel Junior | Full Stack</h3>
+<h3>Élève Ingénieur en Génie Informatique, option Intelligence Artificielle | Architecte Logiciel Junior | Full Stack</h3>
 
-<p><em>"Concevoir des solutions résilientes avec une approche DevOps moderne, en visant toujours la <b>dette technique zéro</b>."</em></p>
+<p><em>"Concevoir des solutions résilientes avec une approche DevOps moderne, en visant une <b>dette technique minimale</b>."</em></p>
 
-<p><a href="mailto:anabih@ehei.ac.ma"><img src="https://img.shields.io/badge/Email-anabih%40ehei.ac.ma-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a></p>
+<p><a href="mailto:nabih.ayman.ai@gmail.com"><img src="https://img.shields.io/badge/Email-nabih.ayman.ai%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a></p>
 </div>
 
 <br/>
@@ -32,6 +27,28 @@ Je suis un développeur passionné par l'architecture logicielle, évoluant à l
 ---
 
 ## 💻 Stack Technique & Outils
+
+<div align="center">
+<table>
+<tr>
+<td align="center"><b>🤖 IA & Machine Learning</b></td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/RAG-6E40C9?style=flat-square" alt="RAG" />
+<img src="https://img.shields.io/badge/ChromaDB-FF6446?style=flat-square" alt="ChromaDB" />
+<img src="https://img.shields.io/badge/SentenceTransformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="SentenceTransformers" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras" />
+</td>
+</tr>
+</table>
+</div>
 
 <div align="center">
 <table>
@@ -94,12 +111,10 @@ Je suis un développeur passionné par l'architecture logicielle, évoluant à l
 
 ## 🏆 Projets Phares
 
-### 🚢 [GitDock] *(Projet de Fin d'Année)*
+### 🚢 [GitDock] *(Projet de Fin d'Année — projet académique, jamais mis en production)*
 > **Plateforme SaaS d'analyse Git multi-tenant** conçue pour centraliser la productivité des équipes de développement.
 
 * 🏗️ **Architecture :** Conception d'un système isolant les données par entreprise (Multi-tenant) avec sécurisation stricte via JWT et OAuth2.
-* 🗄️ **Data Engineering :** Implémentation de Triggers SQL complexes sous PostgreSQL pour garantir l'intégrité financière et analytique en temps réel.
-* 🎮 **Gamification Engine :** Développement d'un moteur d'attribution automatique de badges basé sur l'analyse sémantique des tags de commits.
 
 ### 🔧 Dev-Balance *(Stage - SII Services Maroc)*
 > **Solution de monitoring Git :** Maintenance évolutive et refonte technique majeure pour améliorer l'expérience utilisateur et les performances.
